@@ -1,5 +1,4 @@
 import express from "express"
-//import conexao from "./app/dataBase/conexao.js"
 import SelacaoController from "./app/controllers/SelacaoController.js"
 const app = express()
 
